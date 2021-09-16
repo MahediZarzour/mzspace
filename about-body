@@ -1,0 +1,12 @@
+<div class=body>
+<body style="background-color:white;">
+  <hr>
+    <h1 style="text:white;">ABOUT</h1>
+  <hr>
+    <p>i like to code</p>
+    <p>my name is deez</p>
+    <br>
+    <img src="link" alt="image.png" height="200px" width="400px">
+    <img src="link" alt="image.png" height="200px" width="400px">
+</body>
+</div>
