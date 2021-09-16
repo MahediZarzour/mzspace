@@ -1,0 +1,12 @@
+<div class=body>
+<body>
+    <hr>
+    <h1 style="text:white;">HOME</h1>
+    <hr>
+    <p>hello <br> welcome to my website</p>
+    <img src="https://i.ibb.co/6whqBc1/new-transparent.png" alt="GHOST" width="250px" height="250px">
+    <br>
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/nxoe5DjDd74">
+    </iframe>
+</body>
+</div>
