@@ -1,0 +1,84 @@
+https://www.schemecolor.com/simple-baby-blue-color-scheme.php
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>MZ SPACE</title>
+<link rel="icon" href="https://i.ibb.co/cQpYVTP/favicon.png">
+<style>
+.header {
+  font-family:arial;
+  font-size:100%;
+  color:white;
+  background:#89CFF0;
+  padding:10px;
+}
+.body {
+  font-family:arial;
+  font-size:200%;
+  color:#89CFF0;;
+  background:white;
+  padding:0px;
+  float:right;
+  width:80%;
+  height:1000px;
+}
+.nav {
+  font-family:arial;
+  font-size:200%;
+  color:white;
+  background:#77C3EC;
+  padding:0px;
+  float:left;
+  width:20%;
+  height:1000px
+}
+.footer {
+  font-family:arial;
+  font-size:13px;
+  color:white;
+  background:#89CFF0;
+  padding:10px;
+}
+</style>
+<center>
+<b>
+</head>
+
+<div class=header>
+<body style="background-color:#89CFF0">
+<body>
+<h1>MZ SPACE</h1>
+</body>
+</div>
+
+<div class=nav>
+<body>
+<p>PAGES</p>
+<ul>
+  <li><a href="index.html">HOME</a></li>
+  <li><a href="new-links.html">LINKS</a></li>
+  <li><a href="about.html">ABOUT</a></li>
+</ul>
+</body>
+</div>
+
+<div class=body>
+<body style="background-color:white;">
+  <hr>
+    <h1 style="text:white;">TEMPLATE</h1>
+  <hr>
+    <p>TEMPLATE</p>
+</body>
+</div>
+
+<div class=footer>
+<body>
+&nbsp
+<p> MZ 2021 // contact me - contact.emzeegg@gmail.com </p>
+<img src="https://i.ibb.co/tQFDbLL/zoom-zoom.png" alt="zoom-zoom.png" width="85px" height="25px">
+</body>
+</div>
+
+</body>
+</html>
